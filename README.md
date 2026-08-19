@@ -11,7 +11,7 @@
             ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝
 ```
 
-### AI / ML Engineer · NLP & Production Systems
+### MCA Final-Year AI/ML Engineer · NLP, RAG & Production Systems
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-View%20Live-c9a84b?style=for-the-badge&logo=vercel&logoColor=black)](https://yashsharma01.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-Yashsh101-c9a84b?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Yashsh101)
@@ -28,7 +28,7 @@
 
 ## Overview
 
-Personal portfolio for **Yash Sharma** — an AI/ML Engineer who builds production-grade machine learning systems that operate in the real world, not just Jupyter notebooks.
+Personal portfolio for **Yash Sharma** — an MCA final-year AI/ML Engineer focused on NLP, RAG, GenAI applications, and production ML systems. Approximately three years of Customer Success experience adds a strong user, adoption, and business-outcome perspective to the engineering work.
 
 Built as a **single zero-dependency HTML file** with a dark luxury editorial design system. No frameworks. No build step. No npm. Deploy anywhere instantly.
 
@@ -44,7 +44,7 @@ Built as a **single zero-dependency HTML file** with a dark luxury editorial des
 | API Latency | **< 15ms** | FastAPI real-time inference |
 | Records Processed | **50,000+** | LDA topic modelling pipeline |
 | Triage Reduction | **40%** | Manual effort at Celebal Technologies |
-| Projects Shipped | **4** | Production-grade, deployed systems |
+| Featured Projects | **6** | NLP, RAG, GenAI, agentic, and classical ML systems |
 
 </div>
 
@@ -57,12 +57,13 @@ Built as a **single zero-dependency HTML file** with a dark luxury editorial des
 | 01 | **Hero** | Cinematic opener with live stat counters + text scramble |
 | 02 | **About** | Engineering philosophy + core competencies card |
 | 03 | **Experience** | Timeline: Celebal Technologies · TaskUs · Concentrix |
-| 04 | **Projects** | 4 production projects with metrics + tech stacks |
+| 04 | **Projects** | 6 featured AI/ML projects with metrics + tech stacks |
 | 05 | **Skills** | 3-column arsenal + animated proficiency bars |
 | 06 | **Achievements** | Google Hackathon · Apna College · Outskill |
 | 07 | **Testimonials** | Peer recognition from Celebal Technologies |
-| 08 | **Education** | MCA + BCA + continuous learning timeline |
+| 08 | **Education** | MCA final-year status + BCA + continuous learning timeline |
 | 09 | **Contact** | Direct links + one-click CV download |
+
 
 <br/>
 
@@ -123,7 +124,7 @@ start index.html       # Windows
 ```
 Yash-Portfolio-/
 ├── index.html          # Entire portfolio — HTML + CSS + JS
-├── Yash_Sharma.pdf     # Downloadable resume
+├── Yash-Sharma.pdf     # Downloadable resume
 └── README.md           # This file
 ```
 
@@ -164,7 +165,7 @@ Border       #1a1916   Subtle separators
 
 <div align="center">
 
-**Open to AI/ML engineering roles, internships & contract work — remote globally.**
+**Open to AI/ML Engineer, NLP/GenAI Engineer, Applied AI, and ML Engineer roles — remote globally. Bringing production project evidence, MCA final-year training, and approximately three years of Customer Success experience.**
 
 *If this helped you — drop a star. It means a lot.*
 
