@@ -6,7 +6,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Yashsh101-101218?style=for-the-badge&logo=github)](https://github.com/Yashsh101)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-101218?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yash-sharma-ai/)
 
-Personal portfolio for **Yash Sharma**, an AI/ML Engineer and freelance builder based in Jaipur, India. The site is designed around verifiable proof: production NLP, hybrid retrieval, RAG, evaluation, GenAI products, public code, and live demos.
+Personal portfolio for **Yash Sharma**, an AI/ML Engineer and freelance builder based in Jaipur, India. Current positioning: architecting RAG and agentic AI for support operations. The site is designed around verifiable proof: production NLP, hybrid retrieval, RAG, evaluation, GenAI products, public code, and live demos.
 
 ## Latest proof of work
 
@@ -15,7 +15,7 @@ Personal portfolio for **Yash Sharma**, an AI/ML Engineer and freelance builder 
 - **Customer Inquiry Classifier:** Deployed Vercel app with calibrated confidence, queue routing, human-review fallback, batch prediction, and 93%+ weighted F1 across seven classes.
 - **DocuMind AI Copilot:** FastAPI document copilot with HyDE, BM25/FAISS hybrid search, reranking, citations, conversation memory, and SSE streaming.
 - **AI Trip Planner:** Gemini-powered product with RAG-grounded activities, async jobs, retries, caching, circuit breakers, REST APIs, and explicit streaming UI states.
-- **AeroBaori OS:** Multimodal climate-tech concept pairing Rajasthani baori thermodynamics with Gemini monitoring, kinetic canopies, passive cooling, and rainwater harvesting.
+- **AeroBaori OS:** Google Fund My Crazy 2.0 Top 50 climate-tech concept pairing Rajasthani baori thermodynamics with Gemini monitoring, edge telemetry, automated thermodynamic validation, kinetic canopies, passive cooling, and rainwater harvesting.
 
 ## Featured projects
 
@@ -38,11 +38,15 @@ Personal portfolio for **Yash Sharma**, an AI/ML Engineer and freelance builder 
 
 - **Independent AI/ML Engineer & Product Builder — Freelance:** building public proof across ranking, retrieval, RAG, evaluation, NLP classification, and GenAI product experiences.
 - **Data Science Intern — Celebal Technologies:** end-to-end NLP pipeline work across data, evaluation, FastAPI, CI, and Streamlit observability; 50,000+ records and 40% manual-triage reduction.
-- **Customer Operations — TaskUs & Concentrix:** customer-facing experience that informs workflow design, root-cause analysis, and adoption thinking.
+- **Customer Operations — TaskUs, Concentrix & Urban Company:** nearly three years across high-volume support, CRM workflows, SLA awareness, issue resolution, and structured feedback between customers and product teams.
 
 ## Stack
 
-`Python` · `FastAPI` · `scikit-learn` · `XGBoost` · `Pandas` · `NumPy` · `RAG` · `LangChain` · `LangGraph` · `LlamaIndex` · `FAISS` · `BM25` · `ChromaDB` · `Gemini` · `OpenAI` · `React` · `TypeScript` · `Next.js` · `Docker` · `GitHub Actions` · `Vercel` · `Railway` · `Supabase`
+`Python` · `FastAPI` · `MLOps` · `PostgreSQL` · `Docker` · `scikit-learn` · `XGBoost` · `Pandas` · `NumPy` · `RAG` · `LangChain` · `LangGraph` · `LlamaIndex` · `FAISS` · `BM25` · `ChromaDB` · `Gemini` · `OpenAI` · `React` · `TypeScript` · `Next.js` · `GitHub Actions` · `Vercel` · `Railway` · `Supabase`
+
+## Profile-derived updates
+
+The public site reflects the latest profile export. It includes the Google Fund My Crazy 2.0 Top 50 recognition, the India Runs benchmark context, MLOps/PostgreSQL/Docker positioning, the Celebal/TaskUs/Concentrix/Urban Company timeline, MCA and BCA education, and the listed GenAI/Claude learning credentials. The hero includes a lightweight CSS 3D retrieval cube with reduced-motion support; no WebGL dependency or heavy asset is required.
 
 ## Run locally
 
@@ -58,7 +62,7 @@ Open `http://localhost:8000`. It works without JavaScript, respects `prefers-red
 
 ```text
 index.html       # Semantic portfolio content and SEO metadata
-styles.css       # Responsive visual system, diagrams, and animations
+styles.css       # Responsive visual system, CSS 3D scene, diagrams, and animations
 script.js        # Filtering, reveal animations, mobile menu, active nav
 Yash-Sharma.pdf  # Downloadable resume
 og-cover.svg     # Social sharing preview
