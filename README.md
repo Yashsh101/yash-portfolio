@@ -35,10 +35,10 @@ Personal portfolio for **Yash Sharma**, an AI/ML Engineer and freelance builder 
 - Fraud Detection Model — reproducible early-stage imbalanced-classification scaffold with a model card, threshold-aware evaluation, FastAPI inference, and tests.
 
 ## Experience
-
+- **AI Training & Evaluation Contributor — Handshake AI (Freelance, Sep 2026–Present):** contributing to benchmark and task design for frontier AI lab partners, focusing on LLM evaluation, agentic system behavior, software-engineering tasks, and reliable training signals.
 - **Independent AI/ML Engineer & Product Builder — Freelance:** building public proof across ranking, retrieval, RAG, evaluation, NLP classification, and GenAI product experiences.
-- **Data Science Intern — Celebal Technologies:** end-to-end NLP pipeline work across data, evaluation, FastAPI, CI, and Streamlit observability; 50,000+ records and 40% manual-triage reduction.
-- **Customer Operations — TaskUs, Concentrix & Urban Company:** nearly three years across high-volume support, CRM workflows, SLA awareness, issue resolution, and structured feedback between customers and product teams.
+- **Data Science Intern — Celebal Technologies:** developed and deployed NLP classification and topic-modeling pipelines; achieved 90% inference accuracy and reduced manual triage/data-resolution time by 40%.
+- **Customer Experience Operations — TaskUs, Concentrix & Urban Company:** managed tier-1 escalations and high-volume customer inquiries, maintaining 95%+ CSAT and exceeding baseline first-contact-resolution SLA targets.
 
 ## Stack
 
@@ -46,7 +46,7 @@ Personal portfolio for **Yash Sharma**, an AI/ML Engineer and freelance builder 
 
 ## Profile-derived updates
 
-The public site reflects the latest profile export. It includes the Google Fund My Crazy 2.0 Top 50 recognition, the India Runs benchmark context, MLOps/PostgreSQL/Docker positioning, the Celebal/TaskUs/Concentrix/Urban Company timeline, MCA and BCA education, and the listed GenAI/Claude learning credentials. The hero includes a lightweight CSS 3D retrieval cube with reduced-motion support; no WebGL dependency or heavy asset is required.
+The public site reflects the latest profile export. It includes the Google Fund My Crazy 2.0 Top 50 recognition, the India Runs benchmark context, MLOps/PostgreSQL/Docker positioning, the Celebal/TaskUs/Concentrix/Urban Company timeline, MCA and BCA education, the listed GenAI/Claude learning credentials, and the Handshake AI freelance contribution beginning in September 2026. The hero includes a lightweight CSS 3D retrieval cube with reduced-motion support; no WebGL dependency or heavy asset is required.
 
 ## Run locally
 
@@ -64,7 +64,7 @@ Open `http://localhost:8000`. It works without JavaScript, respects `prefers-red
 index.html       # Semantic portfolio content and SEO metadata
 styles.css       # Responsive visual system, CSS 3D scene, diagrams, and animations
 script.js        # Filtering, reveal animations, mobile menu, active nav
-Yash-Sharma.pdf  # Downloadable resume
+Yash-Sharma.pdf  # Current downloadable resume
 og-cover.svg     # Social sharing preview
 ```
 
