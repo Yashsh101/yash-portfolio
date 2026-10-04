@@ -6,12 +6,12 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Yashsh101-101218?style=for-the-badge&logo=github)](https://github.com/Yashsh101)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-101218?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yash-sharma-ai/)
 
-Personal portfolio for **Yash Sharma**, an AI/ML Engineer and freelance builder based in Jaipur, India. Current positioning: architecting RAG and agentic AI for support operations. The site is designed around verifiable proof: production NLP, hybrid retrieval, RAG, evaluation, GenAI products, public code, and live demos.
+Personal portfolio for **Yash Sharma**, an AI/ML Engineer and freelance builder based in Jaipur, India. Current positioning: architecting RAG and agentic AI for support operations. The site is designed around verifiable proof: applied NLP, hybrid retrieval, RAG, evaluation, GenAI products, public code, and verified demos.
 
 ## Latest proof of work
 
-- **RedRob Ranker:** Solo Finalist for India Runs 2026 Track 1, with BM25, dense retrieval, deterministic ranking, cross-encoder scoring, and a 71.8-second CPU-only local benchmark across 100K profiles.
-- **TraceRAG:** Live citation-gated RAG platform with hybrid retrieval, ACL filtering, durable ingestion jobs, full query traces, no-answer behavior, and golden-QA evaluation gates.
+- **RedRob Ranker:** Solo Finalist for India Runs 2026 Track 1, with BM25, dense retrieval, deterministic ranking, and explainable ranking signals. Official score/runtime benchmarks are pending verification.
+- **TraceRAG:** Citation-gated RAG platform with hybrid retrieval, ACL filtering, ingestion jobs, full query traces, no-answer behavior, and golden-QA evaluation gates. Public demo status is verified but marked noindex.
 - **Customer Inquiry Classifier:** Deployed Vercel app with calibrated confidence, queue routing, human-review fallback, and batch prediction across seven classes.
 - **DocuMind AI Copilot:** FastAPI document copilot with PyPDF2 ingestion, sentence-transformers embeddings, FAISS persistence, OpenRouter generation, and SSE streaming.
 - **AI Trip Planner:** Gemini-powered product with RAG-grounded activities, async jobs, retries, caching, circuit breakers, REST APIs, and explicit streaming UI states.
@@ -21,7 +21,7 @@ Personal portfolio for **Yash Sharma**, an AI/ML Engineer and freelance builder 
 
 | Project | Proof | Links |
 |---|---|---|
-| RedRob Ranker | India Runs 2026 solo finalist; 100K-profile CPU benchmark | [Code](https://github.com/Yashsh101/redrob-ranker) |
+| RedRob Ranker | India Runs 2026 solo finalist; deterministic offline ranking | [Code](https://github.com/Yashsh101/redrob-ranker) |
 | TraceRAG | Citation-gated answers, ACL, traces, eval gates | [Demo](https://trace-rag-system-yashsh101s-projects.vercel.app) · [Code](https://github.com/Yashsh101/trace-rag-system) |
 | Customer Inquiry Classifier | Calibrated routing, deployed API, human review path | [Demo](https://customer-inquiry-classifier.vercel.app/) · [Code](https://github.com/Yashsh101/customer-inquiry-classifier) |
 | DocuMind AI Copilot | Hybrid retrieval, reranking, citations, SSE | [Code](https://github.com/Yashsh101/documind-ai-copilot) |
@@ -37,7 +37,7 @@ Personal portfolio for **Yash Sharma**, an AI/ML Engineer and freelance builder 
 ## Experience
 - **AI Training & Evaluation Contributor — Handshake AI (Freelance, Sep 2026–Present):** contributing to benchmark and task design for frontier AI lab partners, focusing on LLM evaluation, agentic system behavior, software-engineering tasks, and reliable training signals.
 - **Independent AI/ML Engineer & Product Builder — Freelance:** building public proof across ranking, retrieval, RAG, evaluation, NLP classification, and GenAI product experiences.
-- **Data Science Intern — Celebal Technologies:** developed and deployed NLP classification and topic-modeling pipelines; achieved 90% inference accuracy and reduced manual triage/data-resolution time by 40%.
+- **Data Science Intern — Celebal Technologies:** worked across NLP classification and topic-modeling pipelines, from data preparation and evaluation to FastAPI delivery and Streamlit observability.
 - **Customer Experience Operations — TaskUs, Concentrix & Urban Company:** managed tier-1 escalations and high-volume customer inquiries, maintaining 95%+ CSAT and exceeding baseline first-contact-resolution SLA targets.
 
 ## Stack
