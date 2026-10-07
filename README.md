@@ -30,7 +30,7 @@ Personal portfolio for **Yash Sharma**, an AI/ML Engineer and freelance builder 
 
 ## Additional builds
 
-- [Document Clustering & Topic Modeling](https://document-clustering-topic-modeling-fckmphgfctfun5zxdxuor3.streamlit.app/) — TF-IDF, KMeans, LDA, silhouette/Davies-Bouldin evaluation, Streamlit explorer.
+- [Document Clustering & Topic Modeling](https://github.com/Yashsh101/document-clustering-topic-modeling) — TF-IDF, KMeans, LDA, silhouette/Davies-Bouldin evaluation, Streamlit explorer; demo access pending verification.
 - Creator RAG — LangGraph state, Chroma, hybrid retrieval, balanced reranking, and citation streaming for video analytics.
 - Fraud Detection Model — reproducible early-stage imbalanced-classification scaffold with a model card, threshold-aware evaluation, FastAPI inference, and tests.
 
@@ -38,7 +38,7 @@ Personal portfolio for **Yash Sharma**, an AI/ML Engineer and freelance builder 
 - **AI Training & Evaluation Contributor — Handshake AI (Freelance, Sep 2026–Present):** contributing to benchmark and task design for frontier AI lab partners, focusing on LLM evaluation, agentic system behavior, software-engineering tasks, and reliable training signals.
 - **Independent AI/ML Engineer & Product Builder — Freelance:** building public proof across ranking, retrieval, RAG, evaluation, NLP classification, and GenAI product experiences.
 - **Data Science Intern — Celebal Technologies:** worked across NLP classification and topic-modeling pipelines, from data preparation and evaluation to FastAPI delivery and Streamlit observability.
-- **Customer Experience Operations — TaskUs, Concentrix & Urban Company:** managed tier-1 escalations and high-volume customer inquiries, maintaining 95%+ CSAT and exceeding baseline first-contact-resolution SLA targets.
+- **Customer Experience Operations — TaskUs, Concentrix & Urban Company:** managed tier-1 escalations and high-volume customer inquiries across support workflows.
 
 ## Stack
 
